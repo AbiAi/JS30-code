@@ -6,9 +6,9 @@ In order to test my current ability in JS, I first decided to make an attempt on
 The result was funny to look at once I had seen the actual code written by the JS30 course owner. In a small amount of time, I have
 discovered much more efficient ways to write JS code.
 
-#### Oldest Version
+#### Oldest Version - [Link to code](https://github.com/AbiAi/JS30-code/blob/master/drumkit-app/old-index.html)
 ![old-code](https://user-images.githubusercontent.com/26525950/53706889-607c1480-3e24-11e9-9f47-ed1f81ee6ba5.JPG)
-#### Newest Version
+#### Newest Version - [Link to code](https://github.com/AbiAi/JS30-code/blob/master/drumkit-app/index.html)
 ![updated-code](https://user-images.githubusercontent.com/26525950/53706892-607c1480-3e24-11e9-971f-aa7b6b1fc128.JPG)
 
 
