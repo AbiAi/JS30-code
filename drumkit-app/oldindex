@@ -1,0 +1,14 @@
+// get the value of attribute of an element in a container
+      function getAudioDataKey(keyt) {
+        var boxes = document.getElementById("body").children; 
+        for (var i = 0; i < boxes.length; i++) {
+          // for each of the children, check if they have a tag name of AUDIO
+          if (boxes[i].tagName == "AUDIO") {
+            //if they do, get the value of attribute "data-key" for each of them
+            var key = document
+              .getElementsByTagName(boxes[i].tagName)
+              [i - 1].getAttribute("data-key");
+            console.log(key);
+          }
+        }
+      }
